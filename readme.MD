@@ -2,7 +2,7 @@
 ## Problem description is available here:
 https://adventofcode.com/2024/day/11
 
---- Day 11: Plutonian Pebbles ---
+### Part One: Plutonian Pebbles
 
 The ancient civilization on Pluto was known for its ability to manipulate spacetime, and while The Historians explore their infinite corridors, you've noticed a strange set of physics-defying stones.
 
@@ -61,8 +61,9 @@ Consider the arrangement of stones in front of you. How many stones will you hav
 
 Your puzzle answer was 199986.
 
-The first half of this puzzle is complete! It provides one gold star: *
---- Part Two ---
+The first half of this puzzle is complete! It provides one gold star.
+
+### Part Two
 
 The Historians sure are taking a long time. To be fair, the infinite corridors are very large.
 
